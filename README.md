@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/kfcx)
 
-[![naihe's GitHub stats](https://github-readme-stats.vercel.app/api?username=239144498&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naihe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfcx&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My projects:
 
